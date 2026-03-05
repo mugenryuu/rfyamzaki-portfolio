@@ -109,7 +109,7 @@ After reproducing the issue multiple times, I documented the steps and worked wi
 
 ## 🎓 Certification
 
-### 🏆 [Playwright: Web Automation Testing From Zero to Hero](https://drive.google.com/file/d/1-sSBqa5CasfBgFSeYnIXFXIKMud-uG-I/view?usp=drive_link)
+### 🏆 [Playwright: Web Automation Testing From Zero to Hero](https://github.com/mugenryuu/rfyamzaki-portfolio/blob/main/certifications/UC-a4d445c7-6c46-4ff5-9cbd-126ab0ceac01.pdf)
 
 Skills covered:
 - Playwright setup
@@ -123,8 +123,8 @@ Skills covered:
 
 ## 📡 Remote Work Setup
 
-- ⚡ [Internet](https://drive.google.com/file/d/1D0YnSLH1SwQxnNXzPPIsfb9B4MG7Qiwr/view?usp=drive_link): **92 Mbps Download / 93 Mbps Upload**
-- 🖥️ [Dedicated workspace](https://drive.google.com/file/d/1D0YnSLH1SwQxnNXzPPIsfb9B4MG7Qiwr/view?usp=sharing)
+- ⚡ [Internet](https://github.com/mugenryuu/rfyamzaki-portfolio/blob/main/work-setup/speed-test.png): **92 Mbps Download / 93 Mbps Upload**
+- 🖥️ [Dedicated workspace](https://github.com/mugenryuu/rfyamzaki-portfolio/blob/main/work-setup/sys%20info.png)
 - 🎧 Quiet work environment
 
 ---
