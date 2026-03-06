@@ -1,4 +1,5 @@
-# 👨‍💻 Ryu Yamazaki
+# 👨‍💻 Ryuma Figueroa Yamazaki (Ryu Yamazaki)
+
 ### QA Engineer | Manual & Automation Tester
 
 🚀 Delivering reliable software through strong test strategy, automation, and attention to detail.
